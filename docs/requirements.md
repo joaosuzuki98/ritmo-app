@@ -85,3 +85,21 @@
 | RNF14 | A confirmação de hábitos por voz deve utilizar uma API de reconhecimento de fala. |
 
 ---
+
+
+## Épicos e requisitos relacionados
+
+| Épico | Descrição | RFs Relacionados |
+|---|---|---|
+| Gestão de Hábitos | Criação, edição e configuração de hábitos (CRUD, dependências, condições, templates) | RF01, RF15, RF16, RF36, RF39, RF41, RF44, RF45, RF47, RF50 |
+| Agenda e Sincronização | Eventos, calendário, conflitos e integração com o dispositivo | RF02, RF12, RF13, RF53, RF54 |
+| Execução Diária | Fluxo do dia a dia: marcar conclusão, motivos, foco do dia, notas | RF03, RF10, RF17, RF26, RF29, RF42, RF55 |
+| Metas | Definição e acompanhamento de metas individuais e em grupo | RF05, RF35, RF38 |
+| Notificações e Lembretes | Lembretes adaptativos, por localização, incentivo e antecipação | RF06, RF19, RF23, RF30, RF33, RF56 |
+| Gamificação e Social | Pontos, níveis, ranking, hábitos compartilhados e recompensas | RF07, RF20 |
+| Recomendação / IA | Sugestões automáticas baseadas em histórico e padrões do usuário | RF08, RF11, RF21, RF25, RF28, RF37, RF51 |
+| Analytics e Consistência | Cálculos, gráficos e visualizações de desempenho | RF04, RF09, RF14, RF18, RF22, RF32, RF40, RF48, RF49 |
+| Produtividade / Impacto | Correlação entre hábitos e produtividade geral | RF31, RF57 |
+| Relatórios e Exportação | Geração de relatórios e exportação de dados | RF24, RF43, RF46, RF52 |
+| Metadados e Auditoria | Histórico de alterações e versionamento | RF27 |
+| Integrações Externas | Conexão com apps/serviços de terceiros (saúde, fitness) | RF34 |
