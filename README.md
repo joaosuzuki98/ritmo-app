@@ -46,6 +46,7 @@ Crie novos hábitos, monte cronogramas, defina lembretes e organize suas tarefas
 
 **Back-end:**
 - Node Express
+- TypeScript
 - Prisma
 - Zod
 - Vitest + Supertest
