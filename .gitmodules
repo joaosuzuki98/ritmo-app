@@ -1,3 +1,6 @@
 [submodule "ritmo-back"]
 	path = ritmo-back
 	url = https://github.com/joaosuzuki98/ritmo-back.git
+[submodule "ritmo-front"]
+	path = ritmo-front
+	url = https://github.com/joaosuzuki98/ritmo-front.git
