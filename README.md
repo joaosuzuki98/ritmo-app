@@ -33,6 +33,28 @@ Crie novos hábitos, monte cronogramas, defina lembretes e organize suas tarefas
 | US26 | Como usuário, eu quero criar um modelo de dia ideal com horários para hábitos e eventos, para que eu tenha uma referência de rotina planejada. | Medium | RF19 | 5 |
 | US28 | Como usuário, eu quero selecionar um hábito como foco do dia, com destaque visual e lembretes adicionais, para que eu direcione minha atenção prioritária. | Medium | RF20 | 3 |
 
+## Sprint 2
+
+| ID | User Story | Prioridade | Requisito | Story Points |
+|---|---|---|---|---|
+| US06 | Como usuário, eu quero receber lembretes adaptativos baseados no meu histórico de conclusão, incluindo avisos de preparação, foco, prioridade e proximidade de sequências, para que eu seja lembrado no momento mais relevante. | Medium | RF06 | 8 |
+| US10 | Como usuário, eu quero receber sugestões de horários ideais e alternativos para meus hábitos com base em meu histórico, conflitos e intervalos livres, para que eu otimize minha agenda. | Low | RF08 | 5 |
+| US11 | Como usuário, eu quero receber recomendações automáticas de aumento ou redução de frequência/duração dos hábitos com base na minha consistência e carga total, para que minha rotina permaneça sustentável. | Low | RF08 | 5 |
+| US12 | Como usuário, eu quero classificar meus hábitos em categorias e visualizar relatórios de equilíbrio entre elas, para que eu identifique áreas da vida pouco cuidadas. | Medium | RF09 | 5 |
+| US13 | Como usuário, eu quero receber sugestões de hábitos em categorias pouco representadas, para que eu tenha uma rotina mais equilibrada. | Medium | RF09 | 3 |
+| US15 | Como usuário, eu quero receber sugestões de ajustes e ações corretivas com base nos motivos de não conclusão registrados, para que eu supere os obstáculos identificados. | Medium | RF10 | 5 |
+| US16 | Como usuário, eu quero visualizar minha semana em uma visão consolidada, um mapa de calor de consistência e relatórios de produtividade com gráficos interativos, para que eu compreenda meu desempenho geral. | High | RF11 | 8 |
+| US22 | Como usuário, eu quero comparar minha consistência e tempo gasto entre semanas ou meses diferentes, identificando tendências de melhoria ou declínio, para que eu avalie minha evolução ao longo do tempo. | Medium | RF16 | 5 |
+| US27 | Como usuário, eu quero visualizar diariamente o desvio entre meu dia ideal e minha execução real, para que eu identifique onde estou me afastando do planejado. | Medium | RF19 | 5 |
+| US29 | Como usuário, eu quero visualizar o histórico de alterações de hábitos e eventos e reverter para versões anteriores, para que eu tenha controle sobre a evolução das minhas configurações. | Low | RF21 | 8 |
+| US30 | Como usuário, eu quero receber recomendações de novos hábitos com base em baixa consistência, categorias ausentes e meus interesses declarados, para que eu descubra novos hábitos relevantes. | Low | RF22 | 5 |
+| US33 | Como usuário, eu quero visualizar a estimativa de impacto de cada hábito na minha produtividade geral, destacando os mais transformadores, para que eu priorize os hábitos que mais me beneficiam. | Low | RF24 | 5 |
+| US34 | Como usuário, eu quero receber sugestões de pausas curtas após sequências de hábitos, considerando duração acumulada e meu estado de movimento, para que eu evite fadiga excessiva. | Low | RF25 | 5 |
+| US39 | Como usuário, eu quero visualizar correlações entre a conclusão de diferentes hábitos, para que eu identifique relações relevantes entre meus comportamentos. | Low | RF29 | 8 |
+| US40 | Como usuário, eu quero salvar conjuntos de hábitos e eventos como modelos de rotina e carregá-los em dias ou semanas específicas, para que eu reaplique rotinas que já funcionaram bem. | Medium | RF30 | 5 |
+| US42 | Como usuário, eu quero converter um evento único em uma série de hábitos preparatórios com datas de vencimento, para que eu me organize com antecedência para compromissos importantes. | Low | RF32 | 5 |
+| US43 | Como usuário, eu quero que o sistema detecte períodos prolongados sem conclusão de um hábito e me envie incentivo com sugestão de reinclusão gradual, para que eu retome hábitos abandonados sem sobrecarga. | Medium | RF33 | 8 |
+
 <br>
 
 # Arquitetura
