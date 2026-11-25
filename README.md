@@ -55,6 +55,27 @@ Crie novos hábitos, monte cronogramas, defina lembretes e organize suas tarefas
 | US42 | Como usuário, eu quero converter um evento único em uma série de hábitos preparatórios com datas de vencimento, para que eu me organize com antecedência para compromissos importantes. | Low | RF32 | 5 |
 | US43 | Como usuário, eu quero que o sistema detecte períodos prolongados sem conclusão de um hábito e me envie incentivo com sugestão de reinclusão gradual, para que eu retome hábitos abandonados sem sobrecarga. | Medium | RF33 | 8 |
 
+## Sprint 3
+
+| ID | User Story | Prioridade | Requisito | Story Points |
+|---|---|---|---|---|
+| US08 | Como usuário, eu quero ganhar pontos e níveis ao concluir hábitos, com bônus por sequências e diversidade, para que eu me sinta motivado a manter minha rotina. | Medium | RF07 | A definir |
+| US09 | Como usuário, eu quero participar de um ranking opcional com amigos ou grupos, para que eu possa comparar meu progresso de forma social e motivadora. | Low | RF07 | A definir |
+| US17 | Como usuário, eu quero sincronizar meus hábitos e eventos com o calendário padrão do meu dispositivo, criando blocos de tempo reservados, para que minha rotina fique integrada aos meus outros compromissos. | Medium | RF12 | A definir |
+| US20 | Como usuário, eu quero criar hábitos com duração limitada ou sazonais, com contadores visíveis e ativação automática no período definido, para que eu conduza desafios temporários. | Low | RF14 | A definir |
+| US23 | Como usuário, eu quero receber notificações por geolocalização quando estiver em locais associados a determinados hábitos, para que eu seja lembrado no contexto certo. | Low | RF17 | A definir |
+| US24 | Como usuário, eu quero criar hábitos compartilhados e acompanhar o progresso de outros membros, para que eu mantenha hábitos em grupo com amigos ou familiares. | Low | RF18 | A definir |
+| US25 | Como usuário, eu quero visualizar conquistas coletivas dos hábitos em grupo, para que eu me sinta parte de um esforço coletivo. | Low | RF18 | A definir |
+| US31 | Como usuário, eu quero que o sistema sugira bloquear notificações de outros aplicativos durante o horário de um hábito, usando o modo Não Perturbe do Android, para que eu evite distrações. | Medium | RF23 | A definir |
+| US32 | Como usuário, eu quero visualizar o registro de quando o bloqueio de distrações foi ativado, para que eu acompanhe minha disciplina de foco. | Medium | RF23 | A definir |
+| US35 | Como usuário, eu quero importar dados de passos ou calorias de aplicativos de saúde compatíveis e vinculá-los a hábitos de exercício, para que meus hábitos físicos sejam automaticamente atualizados. | Medium | RF26 | A definir |
+| US36 | Como usuário, eu quero que meus dados de hábitos e eventos sejam automaticamente salvos em backup criptografado a cada dois dias, para que eu não perca minhas informações. | High | RF27 | A definir |
+| US37 | Como usuário, eu quero restaurar meus dados a partir de um backup em caso de perda, para que eu recupere minha rotina sem retrabalho. | High | RF27 | A definir |
+| US38 | Como usuário, eu quero configurar recompensas pessoais vinculadas ao alcance de metas de consistência e visualizar as conquistas registradas, para que eu me sinta recompensado pelo meu esforço. | Medium | RF28 | A definir |
+| US41 | Como usuário, eu quero marcar hábitos como concluídos por comando de voz, com confirmação auditiva, para que eu registre hábitos sem precisar tocar no dispositivo. | Low | RF31 | A definir |
+| US44 | Como usuário, eu quero exportar meu histórico de hábitos e eventos em CSV ou JSON, incluindo anotações e métricas, para que eu tenha meus dados em formato portátil. | Medium | RF34 | A definir |
+| US45 | Como usuário, eu quero gerar relatórios semanais ou mensais em PDF para impressão, para que eu tenha um registro físico do meu progresso. | Medium | RF34 | A definir |
+
 <br>
 
 # Arquitetura
